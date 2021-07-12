@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">dbpractice</string>
+    <string name="customerName">customer name</string>
+    <string name="customeAge">age</string>
+    <string name="activecustomer">active customer</string>
+    <string name="viewall">View All</string>
+    <string name="add">Add</string>
+</resources>
